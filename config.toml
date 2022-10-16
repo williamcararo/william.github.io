@@ -1,0 +1,93 @@
+# Site settings
+baseURL = "https://example.com"
+languageCode = "en-US"
+title = "William - Perfil Profissional"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2022 | William Cararo"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "William Cararo"
+  description = "Este é o site pessoal do William. Cientista / engenheiro de dados qualificado."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+     file = "images/profile_picture.jpg" 
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+    # Links List #1
+
+
+  # Links List #1
+  [[params.links]]
+   # [params.links.nome]
+   # nome = "Me encontre"
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Linkedin"
+        url = "https://www.linkedin.com/in/william-cararo/"
+        new_tab = true # new tab
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:williamcararo@hotmail.com"
+        new_tab = true # Default, open at same tab
+
+      [[params.links.list1.link]]
+        text = "Whatsapp"
+        url = "https://wa.me/5548991480558"
+        new_tab = true
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      #[[params.links.list2.link]]
+      #  text = "Twitter"
+      #  url = "#"
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "https://www.instagram.com/william_cararo/"
+
+      [[params.links.list2.link]]
+        text = "Git"
+        url = "https://github.com/williamcararo"
+
+
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
