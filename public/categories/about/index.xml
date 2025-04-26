@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Profile William</title>
+    <link>http://localhost:54211/categories/about/</link>
+    <description>Recent content in About on Profile William</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:54211/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:54211/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:54211/about/</guid>
+      <description>&lt;p&gt;Data Scientist with 10+ years of experience leveraging advanced Machine Learning (ML) and Large Language Models (LLMs) alongside robust credit risk modeling (including credit scoring and CMN 4966 compliance) to drive strategic value across E-commerce, Digital Marketing, and Finance sectors. Proven ability to optimize customer journeys and enhance risk management.&lt;/p&gt;&#xA;&lt;p&gt;Full lifecycle data expertise encompassing data ingestion, predictive modeling, and Natural Language Processing (NLP) for content personalization and optimization. Proficient in developing and deploying various models including credit risk models (origination and regulatory - CMN 4966), churn prediction, forecasting, customer segmentation (clustering), marketing mix modeling, media attribution, and more.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

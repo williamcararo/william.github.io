@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Profile William</title>
+    <link>http://localhost:54211/tags/education/</link>
+    <description>Recent content in Education on Profile William</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:54211/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://localhost:54211/education/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:54211/education/</guid>
+      <description>&lt;p&gt;Below is a timeline of my formal educational experiences that have shaped my professional trajectory in the field of data science.&lt;/p&gt;&#xA;&lt;p&gt;● Certified Google Professional Data Engineer&lt;/p&gt;&#xA;&lt;p&gt;● Graduate in Marketing. IFRS - ERECHIM, finished&#xA;in 2014.&lt;/p&gt;&#xA;&lt;p&gt;● Professional Degree in Marketing, Communication&#xA;and Branding. URI - ERECHIM, finished in 2016.&lt;/p&gt;&#xA;&lt;p&gt;● Master Degree in Business Administration. IMED –&#xA;PASSO FUNDO, finished in 2018.&lt;/p&gt;&#xA;&lt;p&gt;● Professional Degree in Data Science and big data.&#xA;Faculdade Metropolitana - Rio de Janeiro, finished&#xA;in 2022.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

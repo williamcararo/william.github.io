@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educations on Profile William</title>
+    <link>http://localhost:1313/education/</link>
+    <description>Recent content in Educations on Profile William</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/education/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/education/education/</guid>
+      <description>&lt;p&gt;● Certified Google Professional Data Engineer&lt;/p&gt;&#xA;&lt;p&gt;● Graduate in Marketing. IFRS - ERECHIM, finished&#xA;in 2014.&#xA;● Professional Degree in Marketing, Communication&#xA;and Branding. URI - ERECHIM, finished in 2016.&#xA;● Master Degree in Business Administration. IMED –&#xA;PASSO FUNDO, finished in 2018.&#xA;● Professional Degree in Data Science and big data.&#xA;Faculdade Metropolitana - Rio de Janeiro, finished&#xA;in 2022.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

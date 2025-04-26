@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on Profile William</title>
+    <link>http://localhost:54211/tags/skills/</link>
+    <description>Recent content in Skills on Profile William</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:54211/tags/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:54211/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54211/experience/</guid>
+      <description>&lt;p&gt;My academic journey has been guided by a passion for data science and machine learning. Each educational milestone has equipped me with both theoretical knowledge and practical skills essential for navigating the complex landscape of modern data analysis. From fundamental statistical concepts to advanced computational techniques, my educational background has provided me with a strong foundation that continues to inform my approach to solving real-world problems through data-driven insights.&lt;/p&gt;&#xA;&lt;p&gt;This academic foundation has been significantly enriched by my professional experiences across various industries. Working at the intersection of theory and application, I&amp;rsquo;ve had the opportunity to translate academic concepts into tangible business solutions. Throughout my career, I&amp;rsquo;ve collaborated with cross-functional teams to implement data-driven strategies, build predictive models, and develop scalable machine learning pipelines that address complex business challenges. Each role has expanded my technical toolkit while deepening my understanding of how data science can drive organizational decision-making and innovation. This blend of academic rigor and practical experience continues to shape my approach to data science and fuels my commitment to leveraging data for meaningful impact.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
